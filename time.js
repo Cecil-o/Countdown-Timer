@@ -11,6 +11,10 @@ let disp = document.getElementById('disp');
 let interval = null;
 let total=0;
 
+// let hr = Number(hour.value)*3600;
+// let min = Number(minute.value)*60;
+// let sec = Number(second.value);
+
 // Total Time
 totalValue = ()=>{
     total = Number(hour.value)*3600 + Number(minute.value)*60 + Number(second.value);

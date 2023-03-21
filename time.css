@@ -7,11 +7,11 @@
 
 body{
     height: 100vh;
-    width: 100%;
+    /* width: 100%; */
     background-color: #8e44ad;
     display: flex;
     justify-content: center;
-    align-content: center;
+    align-items: center;
 }
 
 .box{
